@@ -4,11 +4,19 @@
     --secondary-color: #48D90B;
 }
 
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap');
+
+
 body{
     background-color: #FBFFFF;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     color: #282829;
+}
+
+.header-shape-devider{
+    width: 100%;
 }
 
 section, .card.profile-card{
